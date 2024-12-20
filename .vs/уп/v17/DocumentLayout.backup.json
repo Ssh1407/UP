@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u0423\u041F01.01\\Programm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97BB2206-EB50-43EF-A349-48C582CEB66A}|ClassLibrary1\\ClassLibrary1.csproj|H:\\\u0423\u041F01.01\\Programm\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BB2206-EB50-43EF-A349-48C582CEB66A}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887979AF-140B-489B-9A3C-B579E254AC19}|\u0443\u043F\\\u0443\u043F.csproj|H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\requestformmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887979AF-140B-489B-9A3C-B579E254AC19}|\u0443\u043F\\\u0443\u043F.csproj|solutionrelative:\u0443\u043F\\requestformmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6F291C-27AB-4DA2-A61B-69051E5E6248}|UnitTestProject1\\UnitTestProject1.csproj|h:\\\u0443\u043F01.01\\programm\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6F291C-27AB-4DA2-A61B-69051E5E6248}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887979AF-140B-489B-9A3C-B579E254AC19}|\u0443\u043F\\\u0443\u043F.csproj|H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\avtorizatia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887979AF-140B-489B-9A3C-B579E254AC19}|\u0443\u043F\\\u0443\u043F.csproj|solutionrelative:\u0443\u043F\\avtorizatia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887979AF-140B-489B-9A3C-B579E254AC19}|\u0443\u043F\\\u0443\u043F.csproj|H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\addrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{887979AF-140B-489B-9A3C-B579E254AC19}|\u0443\u043F\\\u0443\u043F.csproj|solutionrelative:\u0443\u043F\\addrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887979AF-140B-489B-9A3C-B579E254AC19}|\u0443\u043F\\\u0443\u043F.csproj|h:\\\u0443\u043F01.01\\programm\\\u0443\u043F\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{887979AF-140B-489B-9A3C-B579E254AC19}|\u0443\u043F\\\u0443\u043F.csproj|solutionrelative:\u0443\u043F\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887979AF-140B-489B-9A3C-B579E254AC19}|\u0443\u043F\\\u0443\u043F.csproj|h:\\\u0443\u043F01.01\\programm\\\u0443\u043F\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887979AF-140B-489B-9A3C-B579E254AC19}|\u0443\u043F\\\u0443\u043F.csproj|solutionrelative:\u0443\u043F\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887979AF-140B-489B-9A3C-B579E254AC19}|\u0443\u043F\\\u0443\u043F.csproj|H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\addrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887979AF-140B-489B-9A3C-B579E254AC19}|\u0443\u043F\\\u0443\u043F.csproj|solutionrelative:\u0443\u043F\\addrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887979AF-140B-489B-9A3C-B579E254AC19}|\u0443\u043F\\\u0443\u043F.csproj|H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\showrequestadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887979AF-140B-489B-9A3C-B579E254AC19}|\u0443\u043F\\\u0443\u043F.csproj|solutionrelative:\u0443\u043F\\showrequestadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "H:\\\u0423\u041F01.01\\Programm\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "H:\\\u0423\u041F01.01\\Programm\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwHQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:02:29.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "managerForm.cs",
+              "DocumentMoniker": "H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\managerForm.cs",
+              "RelativeDocumentMoniker": "\u0443\u043F\\managerForm.cs",
+              "ToolTip": "H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\managerForm.cs",
+              "RelativeToolTip": "\u0443\u043F\\managerForm.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwIUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:55:48.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "addRequest.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\addRequest.cs",
+              "RelativeDocumentMoniker": "\u0443\u043F\\addRequest.cs",
+              "ToolTip": "H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\addRequest.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u0443\u043F\\addRequest.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:28:27.347Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "requestFormMaster.cs",
+              "DocumentMoniker": "H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\requestFormMaster.cs",
+              "RelativeDocumentMoniker": "\u0443\u043F\\requestFormMaster.cs",
+              "ToolTip": "H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\requestFormMaster.cs",
+              "RelativeToolTip": "\u0443\u043F\\requestFormMaster.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAADwv2IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:19:33.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "managerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\managerForm.cs",
+              "RelativeDocumentMoniker": "\u0443\u043F\\managerForm.cs",
+              "ToolTip": "H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\managerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u0443\u043F\\managerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:44:35.318Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "addRequest.cs",
+              "DocumentMoniker": "H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\addRequest.cs",
+              "RelativeDocumentMoniker": "\u0443\u043F\\addRequest.cs",
+              "ToolTip": "H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\addRequest.cs",
+              "RelativeToolTip": "\u0443\u043F\\addRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:28:29.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "showRequestAdmin.cs",
+              "DocumentMoniker": "H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\showRequestAdmin.cs",
+              "RelativeDocumentMoniker": "\u0443\u043F\\showRequestAdmin.cs",
+              "ToolTip": "H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\showRequestAdmin.cs",
+              "RelativeToolTip": "\u0443\u043F\\showRequestAdmin.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowE0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:37:40.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "H:\\\u0423\u041F01.01\\Programm\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "H:\\\u0423\u041F01.01\\Programm\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:10:58.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "avtorizatia.cs",
+              "DocumentMoniker": "H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\avtorizatia.cs",
+              "RelativeDocumentMoniker": "\u0443\u043F\\avtorizatia.cs",
+              "ToolTip": "H:\\\u0423\u041F01.01\\Programm\\\u0443\u043F\\avtorizatia.cs",
+              "RelativeToolTip": "\u0443\u043F\\avtorizatia.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAUwJQAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:16:07.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

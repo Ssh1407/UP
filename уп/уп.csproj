@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{887979AF-140B-489B-9A3C-B579E254AC19}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>уп</RootNamespace>
+    <AssemblyName>уп</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.6.0.0, Culture=neutral, PublicKeyToken=c4ed5b9ae8358a28, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.6.0\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addRequest.Designer.cs">
+      <DependentUpon>addRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="avtorizatia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="avtorizatia.Designer.cs">
+      <DependentUpon>avtorizatia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changeStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changeStatus.Designer.cs">
+      <DependentUpon>changeStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clientForm.Designer.cs">
+      <DependentUpon>clientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataBase.cs" />
+    <Compile Include="historyLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="historyLoginForm.Designer.cs">
+      <DependentUpon>historyLoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="managerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="managerForm.Designer.cs">
+      <DependentUpon>managerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="processingRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="processingRequests.Designer.cs">
+      <DependentUpon>processingRequests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="refreshRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="refreshRequest.Designer.cs">
+      <DependentUpon>refreshRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="requestFormMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="requestFormMaster.Designer.cs">
+      <DependentUpon>requestFormMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="showRequestAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showRequestAdmin.Designer.cs">
+      <DependentUpon>showRequestAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="showRequestClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showRequestClient.Designer.cs">
+      <DependentUpon>showRequestClient.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addRequest.resx">
+      <DependentUpon>addRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="avtorizatia.resx">
+      <DependentUpon>avtorizatia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changeStatus.resx">
+      <DependentUpon>changeStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clientForm.resx">
+      <DependentUpon>clientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="historyLoginForm.resx">
+      <DependentUpon>historyLoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="managerForm.resx">
+      <DependentUpon>managerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="processingRequests.resx">
+      <DependentUpon>processingRequests.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="refreshRequest.resx">
+      <DependentUpon>refreshRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="requestFormMaster.resx">
+      <DependentUpon>requestFormMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showRequestAdmin.resx">
+      <DependentUpon>showRequestAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showRequestClient.resx">
+      <DependentUpon>showRequestClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
+      <Project>{97bb2206-eb50-43ef-a349-48c582ceb66a}</Project>
+      <Name>ClassLibrary1</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
